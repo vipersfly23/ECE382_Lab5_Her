@@ -12,7 +12,8 @@ Required Functionality [COMPLETED]:
    Required functionality: Turn an led on and off on the MSP430 with a designated button on the remote, and do it again for
    a different led and designated button.
    
-   ![alt text](https://raw.githubusercontent.com/vipersfly23/Lab4_ECE382/master/header.GIF "HEADER CODE")
+   Click on link
+   ![alt text](https://github.com/vipersfly23/ECE382_Lab5_Her/blob/master/FunctionalityVideo.mp4?raw=true "HEADER CODE")
    
 A  Functionality [INCOMPLETE]:
   
@@ -26,7 +27,7 @@ A  Functionality [INCOMPLETE]:
   of the packet, before coding. Afterwards, the code was straight forward in turning the timer on and off at an appropriate
   time. the following image was given, thus simplified the coding.
   
-  ![alt text](https://raw.githubusercontent.com/vipersfly23/Lab4_ECE382/master/header.GIF "HEADER CODE")
+  ![alt text](https://raw.githubusercontent.com/vipersfly23/ECE382_Lab5_Her/master/schematic.jpg "schematic")
 ###Code
 
 Variable Definitions:
