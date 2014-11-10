@@ -12,7 +12,7 @@ Required Functionality [COMPLETED]:
    Required functionality: Turn an led on and off on the MSP430 with a designated button on the remote, and do it again for
    a different led and designated button.
    
-   Click on link
+   Click on link-->
    ![alt text](https://github.com/vipersfly23/ECE382_Lab5_Her/blob/master/FunctionalityVideo.mp4?raw=true "HEADER CODE")
    
 A  Functionality [INCOMPLETE]:
@@ -51,14 +51,8 @@ Coding is simple, and could be found via file main.c
 #####Methodology
 
   
-    My methodology was simplicity. I wanted to ensure that I didn't over complicate this lab and the coding involved so I kept
-    to simple if and else statements and ensuredI full understood all the coding and components of the lab. Though I understood
-    everything, there was an error that I did not account for. 
-    
-    For some reason, the code was not working properly. I don't understand why, but it wasn't working in class, when I tried to
-    work on it again in my room, it was functioning. I didn't change anything. I'm assuming the system just needed a hard reset.
-    Other than that, the lab went fine, and my understanding of the lab improved drastically from trying to figure out why the 
-    program wasn't working.
+    My methodology was simplicity. I wanted to ensure that I didn't over complicate this lab and the coding involved so I kept to simple if and else statements and ensured I fully understood all the coding and components of the lab. Though I understood everything, there was an error that I did not account for. 
+    For some reason, the code was not working properly. I don't understand why, but it wasn't working in class, when I tried to work on it again in my room, it was functioning. I didn't change anything. I'm assuming the system just needed a hard reset. Other than that, the lab went fine, and my understanding of the lab improved drastically from trying to figure out why the program wasn't working.
     
 #####Commit 1
 
@@ -66,17 +60,17 @@ Coding is simple, and could be found via file main.c
   
 #####Commit 2
   
-   A & B Functionality completed.
+   Adding Video
    
 #####Commit 3
     
-  Added images of the code.
+  Adding schematic image.
     
 ****All other commits are either to add comments to the program or to update the README file****
 
 #####Testing:
 
-The program worked great and verified by instructor. Very little testing was required, coding was straight forward.
+The program worked great, video provided earlier provides proof.
 
 
 ###Conclusions/Lessons Learned
